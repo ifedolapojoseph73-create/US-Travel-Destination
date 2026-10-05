@@ -1,4 +1,4 @@
-# US International Travel Dashboard
+# US International Travel Analysis
 
 **An Analysis of US Outbound Passenger Travel (1990–2021)**
 Author: Joseph Dolapo · Tool: Microsoft Excel (PivotTables, PivotCharts, Dashboard Design) · Date: October 2026
